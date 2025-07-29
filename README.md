@@ -8,9 +8,9 @@
 
 <h2>Tecnologias utilizadas</h2>
 <ul>
-   <li>**HTML5** para estruturação</li>
-   <li>**Tailwind CSS** para estilização responsiva</li>
-   <li>**JavaScript** para troca dinâmica de idioma</li>
+   <li><b>HTML5</b> para estruturação</li>
+   <li><b>Tailwind CSS</b> para estilização responsiva</li>
+   <li><b>JavaScript</b> para troca dinâmica de idioma</li>
 </ul>
 
 <h2>Funcionalidades</h2>
@@ -34,5 +34,5 @@
 <h2>Personalização</h2>
 <ul>
    <li>Para modificar o texto e os projetos exibidos, edite o arquivo `index.html`.</li>
-   <li>Para alterar o estilo, customize as classes do **Tailwind CSS** no próprio HTML.</li>
+   <li>Para alterar o estilo, customize as classes do <b>Tailwind CSS</b> no próprio HTML.</li>
 </ul>
