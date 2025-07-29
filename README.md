@@ -1,28 +1,38 @@
-# Landing Page Responsiva  
+<h1>Landing Page Responsiva</h1>
 
-Uma landing page simples, responsiva e multilíngue para exibição de portfólio e projetos.  
+<p>Uma landing page simples, responsiva e multilíngue para exibição de portfólio e projetos.</p>
 
-## Tecnologias utilizadas  
-- **HTML5** para estruturação  
-- **Tailwind CSS** para estilização responsiva  
-- **JavaScript** para troca dinâmica de idioma  
+<h2>Screenshots do projeto</h2>
+<img src="/img/screenshot_home.png">
+<img src="/img/screenshot_contato.png">
 
-## Funcionalidades  
-- Layout totalmente responsivo  
-- Design moderno e minimalista  
-- Suporte para múltiplos idiomas (PT/EN)  
-- Fácil personalização e expansão  
+<h2>Tecnologias utilizadas</h2>
+<ul>
+   <li>**HTML5** para estruturação</li>
+   <li>**Tailwind CSS** para estilização responsiva</li>
+   <li>**JavaScript** para troca dinâmica de idioma</li>
+</ul>
 
-## Demonstração  
-Você pode visualizar a página acessando [**GitHub Pages**](#) *(adicione o link aqui)*.  
+<h2>Funcionalidades</h2>
+<ul>
+   <li>Layout totalmente responsivo</li>
+   <li>Design moderno e minimalista</li>
+   <li>Suporte para múltiplos idiomas (PT/EN)</li>
+   <li>Fácil personalização e expansão</li>
+</ul>
 
-## Como usar  
-1. Clone o repositório:  
-   ```bash
-   git clone https://github.com/seu-usuario/landing-page.git
-   ```
-2. Abra o arquivo `index.html` no navegador.  
+<h2>Como usar</h2>
+<ol>
+   <li>Clone o repositório:  
+      ```bash
+      git clone https://github.com/gontijoVitor/Landing-Page
+      ```
+   </li>
+   <li>Abra o arquivo `index.html` no navegador.</li>
+</ol>
 
-## Personalização  
-- Para modificar o texto e os projetos exibidos, edite o arquivo `index.html`.  
-- Para alterar o estilo, customize as classes do **Tailwind CSS** no próprio HTML.  
+<h2>Personalização</h2>
+<ul>
+   <li>Para modificar o texto e os projetos exibidos, edite o arquivo `index.html`.</li>
+   <li>Para alterar o estilo, customize as classes do **Tailwind CSS** no próprio HTML.</li>
+</ul>
